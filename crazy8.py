@@ -1,4 +1,3 @@
-# Michel, Adant, C1176
 
 import copy
 import math
